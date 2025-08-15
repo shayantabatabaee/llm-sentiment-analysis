@@ -43,7 +43,7 @@ The models demonstrated a clear weakness in classifying the `NEUTRAL` and `OTHER
 | PersianLLaMA-13B | 0.728 (Persian) / 0.633 (English) | 0.726 (Persian) / **0.794 (English)** | 0.705 (Persian) / 0.652 (English) |
 | **Abaskouhi et al. Baseline** | | **GPT-3.5: 0.804** / **GPT-4: 0.906** | |
 
-The weakness of the models on specific labels is visualized in the radar chart below. 
+The weakness of the best performing models on specific labels is visualized in the radar chart below. 
 
 ![Radar Chart](./assets/radar-chart.png)
 
