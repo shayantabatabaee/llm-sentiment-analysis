@@ -73,6 +73,8 @@ After fine-tuning the best performing Aya-expanse-8B model on a subset of the da
 This repository contains two Jupyter notebooks to reproduce the results:
 
 1.  `llm-sentiment-analysis.ipynb`: Contains the code for evaluating the zero-shot and few-shot performance of all six models listed in Table 1.
-2.  `fine-tune-aya.ipynb`: Contains the code for fine-tuning the Aya-expanse-8B model on the dataset.
+2.  `fine-tune-aya.ipynb`: Contains the code for fine-tuning the aya-expanse-8B model on the dataset.
+3.  `demo-aya.ipynb`: Contains the code for runing fine-tuned aya-expanse-8B model on single review.
 
 To run the notebooks, you will need a GPU environment with at least 16 GB of VRAM. Kaggle's T4 x2 GPU environment, which offers 32 GB of memory, was used for these experiments and is sufficient to run all code.
+
